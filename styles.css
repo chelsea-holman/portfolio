@@ -149,7 +149,7 @@ h2 {
 
 #contact {
   background-color: #524833;
-  height: 25vh;
+  max-height: 25vh;
   margin-top: 5rem;
   padding-top: 1rem;
 }
