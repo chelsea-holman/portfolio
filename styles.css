@@ -4,6 +4,7 @@
   font-family: "Montserrat", sans-serif;
   color: #cd8f5f;
   position: relative;
+  box-sizing: border-box;
 }
 
 html,
