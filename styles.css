@@ -197,9 +197,9 @@ h2 {
 
   .container-about {
     display: grid;
-    height: 100vh;
+    height: auto;
     padding-left: 1rem;
-
+  margin: auto;
     width: 100vw;
   }
 
