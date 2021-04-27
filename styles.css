@@ -198,7 +198,7 @@ h2 {
   .container-about {
     display: grid;
     height: auto;
-    padding-left: 1rem;
+    padding-left: 0;
   margin: auto;
     width: 100vw;
   }
@@ -224,7 +224,7 @@ h2 {
 
   .text-container {
     width: 90vw;
-    padding-right: 0.5rem;
+    padding-right: 0rem;
   }
 
   #about-me,
