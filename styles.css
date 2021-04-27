@@ -220,12 +220,9 @@ h2 {
     font-size: 1.5rem;
     text-align: center;
     margin: 8rem 4rem;
+        width: 90vw;
   }
 
-  .text-container {
-    width: 90vw;
-    padding: 0;
-  }
 
   #about-me,
   #skills,
