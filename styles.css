@@ -17,6 +17,10 @@ body {
   overflow-x: hidden;
 }
 
+body {
+    height:100%;
+}
+
 #navbar > ul {
   display: flex;
   width: 60vw;
